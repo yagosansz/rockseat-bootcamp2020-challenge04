@@ -6,10 +6,10 @@ class Header extends Component {
   render() {
     return (
       <Fragment>
-        <header id="main-header">
+        <header className="main-header">
           <div className="content">
             <h2>Facebook</h2>
-            <p>My Profile <img src={userProfile}/></p>
+            <p>My Profile <img src={userProfile} alt="User Profile"/></p>
           </div>
         </header>
       </Fragment>
