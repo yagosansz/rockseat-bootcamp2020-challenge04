@@ -11,7 +11,7 @@
 Clone Facebok UI - post list only - using ReactJS.
 
 <h1 align="center">
-    <img src="./src/assets/faceui.png" alt="Facebook UI - Clone" />
+    <img src="./src/assets/facebookui.png" alt="Facebook UI - Clone" />
 </h1>
 
 ## Features
